@@ -1,9 +1,9 @@
 {
-    "main": "https://www.youtube.com/watch?v=mhJRzQsLZGg",
+    "main": "https://www.youtube.com/embed/mhJRzQsLZGg",
     "side": {
-        "one": "https://www.youtube.com/watch?v=nbBeoReu12E",
-        "two": "https://www.youtube.com/watch?v=CIahOkkwrTI",
-        "three": "https://www.youtube.com/watch?v=TdKYvvwJkhQ",
-        "four": "https://www.youtube.com/watch?v=INr8o4wFFNs"
+        "one": "https://www.youtube.com/embed/nbBeoReu12E",
+        "two": "https://www.youtube.com/embed/CIahOkkwrTI",
+        "three": "https://www.youtube.com/embed/TdKYvvwJkhQ",
+        "four": "https://www.youtube.com/embed/INr8o4wFFNs"
     }
 }
