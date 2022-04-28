@@ -1,0 +1,7 @@
+title = "Rocket Lab - There And Back Again"
+date = 2022-04-29T18:35:00-04:00
+cover = "https://www.rocketlabusa.com/assets/Uploads/candyfloss.jpg"
+
+[overview]
+vehicle = "Electron"
+launch_site = "LC1A"
